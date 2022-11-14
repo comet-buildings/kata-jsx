@@ -34,7 +34,7 @@ type CreateElement = (
 1- Pour commencer simple, créons une fonction nous retournant l'object ci-dessous lors de l'utilisation de l'expression `<Top value={42} />`.
 
 ```typescript
-// Resultar de <Top value={42} />
+// Resultat de <Top value={42} />
 {
   type: "Top";
   value: 42;
